@@ -1,0 +1,147 @@
+* {
+    margin:0px;
+    padding: 0px;
+}
+
+.row > * {
+
+    padding-right: calc(var(--bs-gutter-x) * .0); 
+    padding-left: calc(var(--bs-gutter-x) * .0);
+}
+
+.pad {
+    padding: 20px;
+}
+
+.navbar {
+    background: #efefef !important;
+}
+
+.bt-aula{
+    border-radius: 30px;
+    background: #2ca438;
+    border: 0px;
+    padding: 10px 30px 10px 30px;
+}
+
+.bt-aula:hover{
+    background: #000f36;
+    border: 0px;
+}
+
+#navbarNav{
+    font-size:20px;
+    font-weight:bold;
+}
+
+
+#sec1{
+    background: #efefef;
+    padding: 100px 30px 0px 30px;
+}
+
+#sec1 h1{
+    color: #000f36;
+    font-size:70px;
+    font-weight: bold;
+}
+
+#sec1 p {
+    color: #000f36;
+    font-size:25px;
+    font-weight: 100;
+}
+
+
+#sec2 h1{
+    color: #000f36;
+    font-size:55px;
+    font-weight: bold;
+}
+
+#sec2 p {
+    color: #000f36;
+    font-size:25px;
+    font-weight: 100;
+}
+
+#sec2 a {
+    font-size: 22px;
+    color: #000f36;
+    transition: color 1s;
+}
+
+#sec2 a:hover {
+    color: #2ca438;
+}
+
+#sec3 h1{
+    color: #000f36;
+    font-size:55px;
+    font-weight: bold;
+}
+
+#sec3 p {
+    color: #000f36;
+    font-size:25px;
+    font-weight: 100;
+}
+
+#sec3 h1{
+    color: #000f36;
+    font-size:55px;
+    font-weight: bold;
+}
+
+#sec4 {
+    background: #000f36;
+    text-align: center;
+    padding:30px 0px 30px 0px;
+    transition:background 1s;
+}
+
+#sec4:hover {
+    background: #2ca438;
+    text-align: center;
+    padding:30px 0px 30px 0px;
+}
+
+#sec4 h1{
+    font-size:25px;
+    font-weight: 100;
+    color: #fff;
+}
+
+#sec5{
+    margin-top: 40px;    
+}
+
+#sec5 h1{
+    border-bottom: 6px solid #efefef;
+    margin-bottom:30px;
+    font-size: 35px;
+    font-weight: bold; 
+    color: #000f36;    
+}
+
+#sec5 p {
+    font-size: 18px;
+    color: #000f36;
+}
+
+footer {
+    background: #000f36;
+    padding: 100px;
+    font-size: 20px;
+    color:#fff;
+}
+
+
+.sec6-esp{
+    margin-top: 30px;
+    border-bottom: 6px solid #efefef;
+    opacity: 0.3;
+}
+
+
+
